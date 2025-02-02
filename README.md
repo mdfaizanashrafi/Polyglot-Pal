@@ -1,4 +1,5 @@
 # Polyglot Pal - Real-Time Multilingual Speech Translator
+- Author: Md Faizan Ashrafi
 
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -26,7 +27,7 @@ A real-time speech translation system designed to break language barriers in cus
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/polyglot-pal.git
+git clone https://github.com/mdfaizanashrafi/polyglot-pal.git
 cd polyglot-pal
 
 # Create virtual environment
